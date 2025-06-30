@@ -1,4 +1,4 @@
-A Particle Photon–based skee-ball game that uploads scores to a Google Sheet using IFTTT. Features ultrasonic scoring sensors, LEDs for a game timer, and a buzzer for feedback.
+Code for a "homemade" Particle Photon–based skee-ball machine. Features ultrasonic scoring sensors, LEDs for a game timer, a buzzer for feedback, and uploads scores to a Google Sheet using IFTTT.
 
 Works with:
 - 3 HC-SR04 ultrasonic sensors for scoring
